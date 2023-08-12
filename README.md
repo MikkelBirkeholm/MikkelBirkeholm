@@ -1,7 +1,7 @@
-Hi 👋 My name is Mikkel.
+Hi 👋 
 ========================
 
-Frontend developer.
+React & Next developer
 -------------------
 
 My main area of competence is React frontends, but I also do full stack Next.js apps.
